@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 let buttons = document.querySelectorAll(".button");
 let display = document.querySelector(".value");
 
