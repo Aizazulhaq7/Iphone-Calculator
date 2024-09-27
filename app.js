@@ -43,7 +43,6 @@ buttons.forEach((button) => {
   });
 });
 
-// Function to perform calculations
 function calculate(a, b, operator) {
   a = parseFloat(a);
   b = parseFloat(b);
